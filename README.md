@@ -49,44 +49,44 @@ Instead of static question banks, every question is generated on the fly by **Az
 ### 1. Preparation Hub
 The landing page where candidates choose their preparation track: **Certification Exam**, **Technical Interview**, or **Scenario-Based Assessment**.
 
-![Preparation Hub](docs/screenshots/01-preparation-hub.png)
+![Preparation Hub](docs/screenshots/1.png)
 
 ### 2. Certification Exam Setup
 Candidates configure their session — certification track (AZ-900, AZ-104, AZ-305, AZ-400, AI-102, AI-103, Security, Data...), difficulty level, and question count.
 
-![Certification Setup](docs/screenshots/02-certification-setup.png)
+![Certification Setup](docs/screenshots/2.png)
 
 ### 3. AI-Powered Live Evaluation
 Each answer is graded instantly by Azure AI Foundry, returning a numeric score along with a breakdown of strengths and missing points.
 
-![AI Interview Evaluation](docs/screenshots/03-ai-interview-evaluation.png)
+![AI Interview Evaluation](docs/screenshots/3.png)
 
 ### 4. Final Report
 A consolidated session report showing the overall score, certification readiness percentage, topic scores chart, domain coverage radar, strengths, and weak areas.
 
-![Final Report](docs/screenshots/04-final-report.png)
+![Final Report](docs/screenshots/4.png)
 
 ### 5. Personalized Learning Plan
 An AI-generated, day-by-day roadmap (7 / 14 / 30 days) with specific study tasks mapped to each weak area identified during the assessment.
 
-![Learning Plan](docs/screenshots/05-learning-plan.png)
+![Learning Plan](docs/screenshots/5.png)
 
-![Learning Plan Detailed](docs/screenshots/09-learning-plan-detailed.png)
+![Learning Plan Detailed](docs/screenshots/6.png)
 
 ### 6. Azure AI Foundry — Model Monitoring
 Behind the scenes, the underlying `gpt-4.1-mini` deployment on Azure AI Foundry is fully monitored: total requests, token usage, and estimated cost.
 
-![Azure AI Foundry Metrics](docs/screenshots/06-azure-ai-foundry-metrics.png)
+![Azure AI Foundry Metrics](docs/screenshots/7.png)
 
 ### 7. Azure AI Foundry — Usage Analytics
 Detailed analytics on input/output token trends, request volume, and latency (time to first byte / time to last byte) for the deployed model.
 
-![Azure AI Foundry Analytics](docs/screenshots/07-azure-ai-foundry-analytics.png)
+![Azure AI Foundry Analytics](docs/screenshots/8.png)
 
 ### 8. Azure AI Foundry — Deployment Details
 Full visibility into the model deployment configuration: deployment type, provisioning state, rate limits, model version, and lifecycle status.
 
-![Azure AI Foundry Model Details](docs/screenshots/08-azure-ai-foundry-model-details.png)
+![Azure AI Foundry Model Details](docs/screenshots/10.png)
 
 ---
 
@@ -206,8 +206,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Built with ❤️ to help Cloud & DevOps engineers ace their next certification or interview.
+Built with Hlali Mohamed Amine❤️ to help Cloud & DevOps engineers ace their next certification or interview.
 
-**Powered by Azure AI Foundry**
+**Powered by Hlali Mohamed Amine**
 
 </div>

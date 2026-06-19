@@ -71,22 +71,21 @@ An AI-generated, day-by-day roadmap (7 / 14 / 30 days) with specific study tasks
 
 ![Learning Plan](docs/screenshots/5.png)
 
-![Learning Plan Detailed](docs/screenshots/6.png)
 
 ### 6. Azure AI Foundry — Model Monitoring
 Behind the scenes, the underlying `gpt-4.1-mini` deployment on Azure AI Foundry is fully monitored: total requests, token usage, and estimated cost.
 
-![Azure AI Foundry Metrics](docs/screenshots/7.png)
+![Azure AI Foundry Metrics](docs/screenshots/6.png)
 
 ### 7. Azure AI Foundry — Usage Analytics
 Detailed analytics on input/output token trends, request volume, and latency (time to first byte / time to last byte) for the deployed model.
 
-![Azure AI Foundry Analytics](docs/screenshots/8.png)
+![Azure AI Foundry Analytics](docs/screenshots/7.png)
 
 ### 8. Azure AI Foundry — Deployment Details
 Full visibility into the model deployment configuration: deployment type, provisioning state, rate limits, model version, and lifecycle status.
 
-![Azure AI Foundry Model Details](docs/screenshots/10.png)
+![Azure AI Foundry Model Details](docs/screenshots/8.png)
 
 ---
 
@@ -206,7 +205,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Built with Hlali Mohamed Amine❤️ to help Cloud & DevOps engineers ace their next certification or interview.
+**Built with ❤️ for the Azure & DevOps community**
 
 **Powered by Hlali Mohamed Amine**
 
